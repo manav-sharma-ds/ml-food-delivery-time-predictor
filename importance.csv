@@ -1,0 +1,10 @@
+Feature,Importance
+distance_km,0.38592347843451674
+Delivery_person_Ratings,0.3424561623863216
+Delivery_person_Age,0.17710760976558304
+Type_of_vehicle_motorcycle ,0.04469385451474325
+Type_of_order_Drinks ,0.014311350890574465
+Type_of_order_Meal ,0.014232803677594188
+Type_of_order_Snack ,0.014007751529135217
+Type_of_vehicle_scooter ,0.0040098673041596405
+Type_of_vehicle_electric_scooter ,0.0032571214973719817
